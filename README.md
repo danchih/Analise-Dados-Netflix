@@ -6,6 +6,7 @@
 
 ### Descrição do Projeto
 - Esse projeto tem como objetivo fazer uma análise de dados referente ao dataset "Netflix Movies and TV Shows" disponivel no Kaggle. Com isso, foi utilizado a liguagem Python para fazer o desenvolvimento de um Dashboard Interativo para responder as seguintes perguntas:
+
     - Quantos títulos (filmes e séries de TV) estão disponíveis no dataset?
     - Qual é a proporção de filmes para séries de TV no catálogo?
     - Qual é a duração média dos filmes e das séries de TV?
@@ -44,4 +45,7 @@ streamlit run main.py
 
 ### Pessoa Desenvolvedora: 
 - Daniela Akemi Hayashi
+
+### Link do Dataset Usado:
+[Dataset Netflix Movies and TV Shows](https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows)
 
