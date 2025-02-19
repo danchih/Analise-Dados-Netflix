@@ -1,7 +1,7 @@
 # Analise-Dados-Netflix
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b69535e0-852c-4652-8eca-ce95ee57baa9" width=500px>
+    <img src="https://github.com/user-attachments/assets/b69535e0-852c-4652-8eca-ce95ee57baa9">
 </div>
 
 ### Descrição do Projeto
